@@ -1,4 +1,4 @@
-Note- Most of the HTML output generating coodes are commented to reduce the long HTML lines
+Note- Most of the HTML output generating code bits are commented to reduce the long HTML lines
 
 In this project, I developed a web scraping script to extract data from the Wikipedia page(https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_Kingdom) 
 listing the largest companies in the United Kingdom. 
